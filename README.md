@@ -1,4 +1,8 @@
-# Classifying-Fabric-Patterns-Using-DL
+
+# Classifying-Fabric-Patterns-Using-DL #
+DATA SET LINK
+# https://drive.google.com/drive/folders/1DX-Xv8K0zAkghXpUjsMTriWEQRI73wIT #
+
 **SUMMARY**
 
 This project builds a CNN that learns to recognize fabric patterns from images and saves the trained model.
